@@ -1,0 +1,43 @@
+/**
+* @name SexyImpostor
+* @version 69.420
+* @description SUS
+* @author Impostor
+* @invite no
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC');
+:root {
+--themeColor1: #DC0000FF;
+--themeColor2: #9B0000FF;
+--customFont: 'Amatic SC';
+--homeImage: url('https://zagrano.pl/wp-content/uploads/2021/01/among-us-1.jpg');
+--homeImageSize: cover;
+--backgroundColor: #FF0000FF;
+--backgroundImage: url('https://cdn.discordapp.com/attachments/459408784306208768/903375783697989672/FB_IMG_1635451958112.jpg');
+--backgroundPosition: center;
+--backgroundSize: 100% 100%;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 1;
+--HSL-server-icon-size: 100px;
+--HSL-server-spacing: 100px;
+--rs-small-spacing: 30px;
+--rs-medium-spacing: 30px;
+--rs-large-spacing: 30px;
+--rs-small-width: 25px;
+--rs-medium-width: 25px;
+--rs-large-width: 25px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
